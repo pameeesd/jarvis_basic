@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Temporales de audio generado si no se desean versionar
+# _voz_jarvis.mp3
+
